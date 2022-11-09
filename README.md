@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Natnael (Nate)</h1>
 <h3 align="center">A Data Engineer and Experienced Back-end Developer</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nathnael12&label=Profile%20views&color=0e75b6&style=flat" alt="nathnael12" /> </p>
 
 - 📝 You can read details about my projects on [Medium](https://medium.com/@natnaelmasresha)
 
