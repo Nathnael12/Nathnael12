@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Natnael (Nate)</h1>
 <h3 align="center">a Data Engineer and Experienced back-end developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nathnael12&label=Profile%20views&color=0e75b6&style=flat" alt="nathnael12" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nathnael12" alt="nathnael12" /></a> </p>
 
 - 📝 You can read details about my projects on [Medium](https://medium.com/@natnaelmasresha)
 
