@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Natnael (Nate)</h1>
-<h3 align="center">a Data Engineer and Experienced back-end developer</h3>
+<h3 align="center">A Data Engineer and Experienced Back-end Developer</h3>
 
 
 - 📝 You can read details about my projects on [Medium](https://medium.com/@natnaelmasresha)
