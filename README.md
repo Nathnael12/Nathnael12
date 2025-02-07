@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Data Engineering tools, ETL|ELT pipelines, .NET MVC**
 
-- 📫 How to reach me **[send an email](mailto:natnaelmasresha@gmail.com)**
+- 📫 Reach out to me, **[send an email](mailto:natnaelmasresha@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
