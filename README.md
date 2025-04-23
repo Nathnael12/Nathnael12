@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Natnael (Nate)</h1>
+<h1 align="center">Hi 👋, I'm Natnael</h1>
 <h3 align="center">An Experienced Back-end Developer and ML Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathnael12&label=Profile%20views&color=0e75b6&style=flat" alt="nathnael12" /> </p>
 
